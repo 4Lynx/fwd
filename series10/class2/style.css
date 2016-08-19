@@ -1,0 +1,37 @@
+/*Each rule has three components:
+- Selector = element to which the CSS will be applied (e.g., html, h1, p).
+- Property = part of the element to be modified
+- Value = modification */
+
+html {
+	background: pink;
+	font-family: sans-serif;
+}
+
+ol li {
+	color: green;
+	font-style: italic;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	/*height: 200px;*/
+	width: 200px;
+	margin-bottom: 5em;
+	margin-top: 0;
+	padding: 1em;
+	border: 5px solid lightsteelblue;
+	background: white;
+}
+
+body {
+	margin: 0;
+}
+
+.first-list-item {
+	font-size: 3em;
+}

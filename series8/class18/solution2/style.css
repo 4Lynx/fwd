@@ -1,7 +1,0 @@
-.inner {
-  height: 100px;
-  width: 100px;
-  position: relative;
-  left: 100px;
-  /* or position: static; margin-left: 100px; */
-}
